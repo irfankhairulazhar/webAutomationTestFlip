@@ -6,7 +6,7 @@
 	<parameter name="chrome" value="chrome" />
 	<parameter name="firefox" value="firefox" />
 
-	<test name="nikel test automation">
+	<test name="flip test">
 		<classes>
 			<class name="runners.TestRunner"/>
 		</classes>
